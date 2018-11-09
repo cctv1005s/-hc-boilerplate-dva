@@ -1,5 +1,4 @@
 var config = require('../config');
-const _ = require('lodash');
 
 /**
  * @api /*
